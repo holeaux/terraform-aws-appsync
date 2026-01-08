@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.1.0](https://github.com/terraform-aws-modules/terraform-aws-appsync/compare/v4.0.1...v4.1.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#75](https://github.com/terraform-aws-modules/terraform-aws-appsync/issues/75)) ([74626c5](https://github.com/terraform-aws-modules/terraform-aws-appsync/commit/74626c58d66ef7079d2b0f44b7b6b658360bc835))
+
 ## [4.0.1](https://github.com/terraform-aws-modules/terraform-aws-appsync/compare/v4.0.0...v4.0.1) (2025-10-21)
 
 ### Bug Fixes
